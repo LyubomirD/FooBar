@@ -1,4 +1,4 @@
-package Solutions;
+package FailedSolutions;
 
 /*
 Commander Lambda has tasked you to help the scientists increase fuel creation efficiency by predicting the end
